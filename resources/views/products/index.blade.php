@@ -7,6 +7,7 @@
         </div>
         <div class="row">
             <div class="col-12">
+                <a class="btn btn-secondary" href="{{route('products.create')}}">Aggiungi Prodotto</a>
                 <table class="table">
                     <thead>
                         <tr>
